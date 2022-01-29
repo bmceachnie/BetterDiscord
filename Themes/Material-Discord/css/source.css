@@ -206,12 +206,13 @@ body,
   width: auto;
   height: 22px;
 }
-.wordmark-2u86JB.wordmarkWindows-2dq6rw:before {
+/* .wordmark-2u86JB.wordmarkWindows-2dq6rw:before {
   content: "Material";
   font-weight: 700;
-}
+} */
 .wordmark-2u86JB.wordmarkWindows-2dq6rw:after {
   content: "Discord";
+  padding-left: 15px;
 }
 .wordmark-2u86JB.wordmarkWindows-2dq6rw svg {
   display: none;
@@ -5145,6 +5146,10 @@ body:active .menu-1QACrS#status-picker:not(:active) {
   border-radius: 0;
   border: none;
   border-bottom: 1px solid var(--input-border-color);
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  -ms-border-radius: 0;
+  -o-border-radius: 0;
 }
 .cardInput-33x7OF.cardNumberInput-1Ly6Gn {
   padding-left: 40px;
