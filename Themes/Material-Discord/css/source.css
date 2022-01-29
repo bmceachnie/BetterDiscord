@@ -222,7 +222,7 @@ body,
   height: var(--window-title-bar);
   margin-top: 0;
 }
-.typeWindows-2-g3UY .winButton-3UMjdg {
+/* .typeWindows-2-g3UY .winButton-3UMjdg {
   height: var(--window-title-bar);
   top: 0;
 }
@@ -299,7 +299,7 @@ html:not(.app-focused) .typeWindows-2-g3UY .winButton-3UMjdg:after {
 }
 html:not(.app-focused) .typeWindows-2-g3UY .winButton-3UMjdg.winButtonMinMax-3RsPUg:after {
   background-color: var(--window-button-inactive);
-}
+} */
 
 /*
  *
