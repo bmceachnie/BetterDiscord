@@ -2046,9 +2046,14 @@ html:not(.app-focused) .typeWindows-2-g3UY .winButton-3UMjdg.winButtonMinMax-3Rs
 
 /* CHANNELS LIST -> CHANNEL */
 .containerDefault-YUSmu3.selected-2TbFuo {
-  background-color: var(--menu-item-select-accent);
-  border-radius: 0 24px 24px 0;
+  background-color: transparent;
+  border-radius: 0;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  -ms-border-radius: 0;
+  -o-border-radius: 0;
 }
+
 .containerDefault-YUSmu3 .modeSelected-3DmyhH .content-1gYQeQ,
 .containerDefault-YUSmu3 .modeSelected-3DmyhH:hover .content-1gYQeQ {
   background-color: transparent;
